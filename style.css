@@ -1,0 +1,16 @@
+#camera
+{
+  border: 7px solid blue;
+  border-radius: 13px;
+  width: 350px;
+  height: 310px; 
+}
+img{
+    border: 5px solid aqua;
+    border-radius: 7px;
+}
+img:hover{
+    border: 6px solid rgb(0, 255, 110);
+    box-shadow: 6px 6px rgb(0, 166, 255);
+    width: 125;
+}
